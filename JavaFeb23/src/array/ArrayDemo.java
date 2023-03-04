@@ -3,7 +3,7 @@ package array;
 public class ArrayDemo {
 
 	public static void main(String[] args) {
-		
+		// This is an one dymentional array
 		//declaring array
 		String[] myArray = new String[3];
 		//assigning value to the array
@@ -28,7 +28,6 @@ public class ArrayDemo {
 		for (int v: number) {
 			System.out.println(v);
 		}
-		
 
 	}
 
